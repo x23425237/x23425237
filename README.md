@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... LLM's , image classification , NLP
 - 📫 How to reach me ...email 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... Max Amini
 
 <!---
 x23425237/x23425237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
