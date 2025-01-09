@@ -1,6 +1,10 @@
 ## Hello! :wave: I am Bharathi Ramapatnam, currently pursuing an MSc in Data Analytics at [National College of Irealnd](https://www.ncirl.ie/Courses/NCI-Course-Details/course/MSCDAD/)
-## Please check out my classroom assessments, project work,some freelance work and HigherDiploma work work from [Technological University of the Shannon](https://tus.ie/courses/higher-diploma-in-data-analytics-2-year-p-t/)
+## Please check out my classroom assessments, project work,some freelance work and HigherDiploma work from [Technological University of the Shannon](https://tus.ie/courses/higher-diploma-in-data-analytics-2-year-p-t/)
 
 
-- [🔗 Time Series Forecasting using ARIMA model](https://github.com/your-username/data-analytics-project)
-- [🔗 Multiple Linear Regression - Stats model](https://github.com/your-username/ml-research)
+### MSc in Data Analytics
+
+- [🔗 Time Series Forecasting using ARIMA model](https://github.com/x23425237/TimeSeries-MultiLinerRegression/blob/main/TimeSeries_CA_x23425237.ipynb))
+- [🔗 Multiple Linear Regression - Stats model]((https://github.com/x23425237/EDA-Exploratory-Data-Analysis-and-MLR-Multiple-Linear-Regression-/blob/main/EDA_MLR_CA_x23425237.ipynb))
+
+### HigherDiploma in Data Analytics
