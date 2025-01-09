@@ -1,3 +1,3 @@
-## I am Bharathi Ramapatnam - Currently persuaing MSc in Data Analytics from [National College of Irealnd](https://www.ncirl.ie/Courses/NCI-Course-Details/course/MSCDAD/)
-## Please check out my Classroom assessments, Project work and some Freelance work. 
+## Hello! :wave: I am Bharathi Ramapatnam, currently pursuing an MSc in Data Analytics at [National College of Irealnd](https://www.ncirl.ie/Courses/NCI-Course-Details/course/MSCDAD/)
+## Please check out my classroom assessments, project work, and some freelance work.
 
