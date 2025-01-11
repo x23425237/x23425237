@@ -9,8 +9,8 @@
 - [🔗 Healthcare-Wearable Devices- Activity Tracking](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_wearableDevices.ipynb)
 
 ### Freelance work 
-<img src="https://www.logo.wine/a/logo/British_Airways/British_Airways-Logo.wine.svg" width="200" height="100" / />
--[🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
+<img src="https://www.logo.wine/a/logo/British_Airways/British_Airways-Logo.wine.svg" width="200" height="100"/>
+- [🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
 
 
 ### HigherDiploma in Data Analytics
