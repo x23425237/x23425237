@@ -9,5 +9,5 @@
 - [🔗 Sentiment Analysis- Drug Review](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_roberta.ipynb)
 - [🔗 Healthcare-Wearable Devices- Activity Tracking](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_wearableDevices.ipynb)
 ### HigherDiploma in Data Analytics
-                         ![Irish Water]([https://example.com/path/to/image.png](https://www.water.ie/))
+![Irish Water]([https://example.com/path/to/image.png](https://www.water.ie/))
 - [🔗Irish water- Chemical Predictions- Drinking water](https://github.com/x23425237/HDipAthloneUniversity-Shannon-FinialYearProject/blob/main/allCorkData.py)
