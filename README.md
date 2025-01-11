@@ -10,7 +10,7 @@
 
 ### Freelance work 
 ![British Airways](https://www.britishairways.com/travel/home/public/en_ie)
-[🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
+-[🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
 
 
 ### HigherDiploma in Data Analytics
