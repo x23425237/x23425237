@@ -9,7 +9,7 @@
 - [🔗 Healthcare-Wearable Devices- Activity Tracking](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_wearableDevices.ipynb)
 
 ### Freelance work 
-![British Airways](https://www.britishairways.com/travel/home/public/en_ie)
+![British Airways](https://www.logo.wine/a/logo/British_Airways/British_Airways-Logo.wine.svg)
 -[🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
 
 
