@@ -10,9 +10,10 @@
 
 
 ### Freelance work 
-- <img src="https://www.logo.wine/a/logo/British_Airways/British_Airways-Logo.wine.svg" width="200" height="100"/> [🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
+- [🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
 
 
 
 ### HigherDiploma in Data Analytics
-- ![Irish Water](https://www.water.ie/themes/custom/ue_theme/logo.svg) [🔗Irish water- Chemical Predictions- Drinking water](https://github.com/x23425237/HDipAthloneUniversity-Shannon-FinialYearProject/blob/main/allCorkData.py)
+![Irish Water](https://www.water.ie/themes/custom/ue_theme/logo.svg)
+- [🔗Irish water- Chemical Predictions- Drinking water](https://github.com/x23425237/HDipAthloneUniversity-Shannon-FinialYearProject/blob/main/allCorkData.py)
