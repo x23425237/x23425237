@@ -13,7 +13,7 @@
 
 ### Freelance work 
 - [🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
-- [WorldBank-PowerBI](https://github.com/x23425237/WorldBankPowerBI/blob/main/WorldbankPowerBI/WorldEconomicFinial.mp4)
+- [WorldBank-PowerBI](https://github.com/x23425237/WorldEconomicPowerBI/blob/main/WorldbankPowerBI/PowerBIWorldEconomicIndicator.jpg)
 
 
 
