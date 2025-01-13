@@ -8,10 +8,14 @@
 - [🔗 Sentiment Analysis- Drug Review](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_roberta.ipynb)
 - [🔗 Healthcare-Wearable Devices- Activity Tracking](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_wearableDevices.ipynb)
 - [🔗 Worldbank and WorldEconomic](https://github.com/x23425237/WorldBank_Script/blob/main/readme.md)
+  
 
 
 ### Freelance work 
 - [🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
+- [WorldBank-PowerBI](https://github.com/x23425237/WorldBankPowerBI/blob/main/WorldbankPowerBI/WorldEconomicFinial.mp4)
+
+
 
 
 
