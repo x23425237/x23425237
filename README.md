@@ -7,7 +7,7 @@
 - [🔗 Multiple Linear Regression - Stats model](https://github.com/x23425237/EDA-Exploratory-Data-Analysis-and-MLR-Multiple-Linear-Regression-/blob/main/EDA_MLR_CA_x23425237.ipynb)
 - [🔗 Sentiment Analysis- Drug Review](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_roberta.ipynb)
 - [🔗 Healthcare-Wearable Devices- Activity Tracking](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_wearableDevices.ipynb)
-- [🔗 Worldbank and WorldEconomic](https://github.com/x23425237/WorldBank_Script/blob/main/readme.md)
+- [🔗 Worldbank and WorldEconomic- ETL Process-Dagster Orchestration ](https://github.com/x23425237/WorldBank_Script/blob/main/readme.md)
   
 
 
