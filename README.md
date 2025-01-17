@@ -15,7 +15,7 @@
 - [🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
 - [🔗WorldBank-PowerBI](https://github.com/x23425237/WorldEconomicPowerBI/blob/main/WorldbankPowerBI/PowerBIWorldEconomicIndicator.jpg)
 - [🔗HR-Analytics-AttritionRate-PowerBI](https://github.com/x23425237/HR_Analytics/blob/main/HR-Analytics/AttritionRate.pdf)
-
+- [🔗LibraryManagement-postgresql](https://github.com/x23425237/LibraryManagement-postgresql)
 
 
 
