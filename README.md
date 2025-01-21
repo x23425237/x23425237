@@ -5,7 +5,7 @@
 ### MSc in Data Analytics
 - [🔗 Time Series Forecasting using ARIMA model](https://github.com/x23425237/TimeSeries-MultiLinerRegression/blob/main/TimeSeries_CA_x23425237.ipynb)
 - [🔗 Multiple Linear Regression - Stats model](https://github.com/x23425237/EDA-Exploratory-Data-Analysis-and-MLR-Multiple-Linear-Regression-/blob/main/EDA_MLR_CA_x23425237.ipynb)
-- [🔗 Sentiment Analysis- Drug Review](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_roberta.ipynb)
+- [🔗 Sentiment Analysis- Drug Review](https://nbviewer.org/github/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_roberta.ipynb)
 - [🔗 Healthcare-Wearable Devices- Activity Tracking](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_wearableDevices.ipynb)
 - [🔗 Worldbank and WorldEconomic- ETL Process-Dagster Orchestration ](https://github.com/x23425237/WorldBank_Script/blob/main/readme.md)
 - [🔗Logistic Regression-LoanData](https://nbviewer.org/github/x23425237/LogisticRegression_loanData/blob/main/model.ipynb)
