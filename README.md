@@ -8,8 +8,7 @@
 - [🔗 Sentiment Analysis- Drug Review](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_roberta.ipynb)
 - [🔗 Healthcare-Wearable Devices- Activity Tracking](https://github.com/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_wearableDevices.ipynb)
 - [🔗 Worldbank and WorldEconomic- ETL Process-Dagster Orchestration ](https://github.com/x23425237/WorldBank_Script/blob/main/readme.md)
-  
-
+- [🔗Logistic Regression-LoanData](https://github.com/x23425237/LogisticRegression_loanData/blob/main/model.ipynb)
 
 ### Freelance work 
 - [🔗Webscraping - Reviews - British Airways](https://www.kaggle.com/code/bharathiramapatnam/web-scraping-british-airways)
