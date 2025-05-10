@@ -5,6 +5,7 @@
 ### MSc in Data Analytics
 - [🔗 Driver Performance Analysis using Apache Spark and PySpark on Formula 1 Data](https://github.com/x23425237/DataIntensive_CA2/blob/main/dataload/README.md)
 - [🔗 DeepLearning_GenAI- Time Series Forecasting- A Deep Learning Approach to JPMorgan Stock Prediction](https://github.com/x23425237/DeepLearning_GenAI)
+- [🔗DeepLearning_GenAI- CNN-Based Text Classification Model](https://github.com/x23425237/DeepLearning_GenAI/blob/main/textClassification.ipynb)
 - [🔗 Time Series Forecasting using ARIMA model](https://github.com/x23425237/TimeSeries-MultiLinerRegression/blob/main/TimeSeries_CA_x23425237.ipynb)
 - [🔗 Multiple Linear Regression - Stats model](https://github.com/x23425237/EDA-Exploratory-Data-Analysis-and-MLR-Multiple-Linear-Regression-/blob/main/EDA_MLR_CA_x23425237.ipynb)
 - [🔗 Sentiment Analysis- Drug Review](https://nbviewer.org/github/x23425237/WearableDevices-Sentimentanalysis/blob/main/CA_roberta.ipynb)
