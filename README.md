@@ -24,3 +24,6 @@
 ### HigherDiploma in Data Analytics
 ![Irish Water](https://www.water.ie/themes/custom/ue_theme/logo.svg)
 - [🔗Irish water- Chemical Predictions- Drinking water](https://github.com/x23425237/HDipAthloneUniversity-Shannon-FinialYearProject/blob/main/allCorkData.py)
+
+### SQL Related
+- [🔗Formula1- SQL Data Analysis](https://github.com/x23425237/Formula1_sql/blob/main/createSql.md)
